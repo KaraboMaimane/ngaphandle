@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "just a sass and css tutorial",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Karabo Maimane",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
